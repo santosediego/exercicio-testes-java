@@ -28,6 +28,6 @@ Deve ser implementado os seguintes testes para validar esta classe (total = 10 t
 
 
 ## Autores
-[Nelio Alves](https://www.linkedin.com/in/nelio-alves/ "Perfil Linkedin Nelio Alves"), [@acenelio](https://github.com/acenelio "Perfil GitHub Nelio Alves") - Professor
+[Nelio Alves](https://www.linkedin.com/in/nelio-alves/ "Perfil Linkedin Nelio Alves") - Professor
 
 [Diego Santos](https://www.linkedin.com/in/santosediego/ "Perfil Linkedin Diego Santos")
